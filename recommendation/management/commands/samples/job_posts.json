@@ -1,0 +1,659 @@
+[
+    [
+        {
+            "title": "Software Engineer",
+            "description": "We are looking for a skilled software engineer to join our dynamic team. You will be responsible for developing high-quality software solutions and collaborating with cross-functional teams.",
+            "skills": ["Java", "Python", "JavaScript", "Agile Methodologies", "Problem-Solving"]
+        },
+        {
+            "title": "Data Analyst",
+            "description": "Join our analytics team to provide data-driven insights. You will analyze complex datasets, generate reports, and support decision-making processes.",
+            "skills": ["SQL", "Excel", "Data Visualization", "Statistics", "Python"]
+        },
+        {
+            "title": "Product Manager",
+            "description": "Seeking a proactive product manager to lead product development from conception to launch. You will work closely with engineering, marketing, and sales teams.",
+            "skills": ["Project Management", "Market Research", "Communication", "Agile Methodologies", "Strategic Planning"]
+        },
+        {
+            "title": "Graphic Designer",
+            "description": "Looking for a creative graphic designer to create visually appealing designs for various media. Experience in branding and digital marketing is a plus.",
+            "skills": ["Adobe Creative Suite", "Illustration", "Typography", "Creativity", "Attention to Detail"]
+        },
+        {
+            "title": "Marketing Specialist",
+            "description": "We need a marketing specialist to develop and execute marketing strategies. You will analyze market trends and work on campaigns to enhance brand visibility.",
+            "skills": ["SEO", "Content Marketing", "Social Media", "Analytics", "Communication"]
+        },
+        {
+            "title": "Systems Administrator",
+            "description": "Join our IT team as a systems administrator. You will manage and maintain our IT infrastructure, ensuring optimal performance and security.",
+            "skills": ["Linux", "Windows Server", "Networking", "Troubleshooting", "Cloud Computing"]
+        }
+    ],
+    [
+        {
+            "title": "Network Engineer",
+            "description": "We are looking for a network engineer to design, implement, and maintain our network infrastructure. You will ensure network security and performance.",
+            "skills": ["Cisco", "Routing", "Switching", "Network Security", "TCP/IP"]
+        },
+        {
+            "title": "Frontend Developer",
+            "description": "Join our development team as a frontend developer. You will create responsive and user-friendly web applications using modern frameworks.",
+            "skills": ["HTML", "CSS", "JavaScript", "React", "Vue.js"]
+        },
+        {
+            "title": "Project Coordinator",
+            "description": "We need a project coordinator to assist in managing project timelines and deliverables. You will work closely with project managers and teams.",
+            "skills": ["Organization", "Communication", "MS Project", "Time Management", "Problem-Solving"]
+        },
+        {
+            "title": "Human Resources Manager",
+            "description": "Seeking an HR manager to oversee our recruitment, employee relations, and performance management processes.",
+            "skills": ["Recruitment", "Employee Relations", "HRIS", "Compliance", "Conflict Resolution"]
+        },
+        {
+            "title": "Quality Assurance Tester",
+            "description": "We are looking for a QA tester to ensure the quality and functionality of our software products through rigorous testing.",
+            "skills": ["Test Automation", "Manual Testing", "Bug Tracking", "Selenium", "Attention to Detail"]
+        },
+        {
+            "title": "Financial Analyst",
+            "description": "Join our finance team as a financial analyst. You will analyze financial data and help with budgeting and forecasting.",
+            "skills": ["Excel", "Financial Modeling", "Forecasting", "Data Analysis", "Attention to Detail"]
+        },
+        {
+            "title": "Customer Support Specialist",
+            "description": "We need a customer support specialist to assist our clients with inquiries and issues, ensuring a high level of service.",
+            "skills": ["Communication", "Problem-Solving", "CRM Software", "Patience", "Time Management"]
+        },
+        {
+            "title": "SEO Specialist",
+            "description": "We are looking for an SEO specialist to optimize our website for search engines and improve organic traffic.",
+            "skills": ["Keyword Research", "On-Page SEO", "Link Building", "Analytics", "Content Strategy"]
+        },
+        {
+            "title": "Mobile App Developer",
+            "description": "Join our team as a mobile app developer to create engaging applications for iOS and Android platforms.",
+            "skills": ["Swift", "Kotlin", "React Native", "UI/UX Design", "API Integration"]
+        },
+        {
+            "title": "Business Analyst",
+            "description": "We are looking for a business analyst to evaluate business processes and identify opportunities for improvement.",
+            "skills": ["Data Analysis", "Stakeholder Management", "Business Process Modeling", "Documentation", "Communication"]
+        }
+    ],
+    [
+        {
+            "title": "Cloud Solutions Architect",
+            "description": "We are seeking a cloud solutions architect to design and implement cloud-based solutions. You will work with various stakeholders to optimize cloud strategies.",
+            "skills": ["AWS", "Azure", "Cloud Architecture", "Networking", "Security"]
+        },
+        {
+            "title": "Database Administrator",
+            "description": "Join our IT team as a database administrator. You will be responsible for database performance, integrity, and security.",
+            "skills": ["SQL", "Database Management", "Backup and Recovery", "Performance Tuning", "Oracle"]
+        },
+        {
+            "title": "Content Marketing Manager",
+            "description": "We need a content marketing manager to develop and implement our content strategy. You will oversee content creation and distribution.",
+            "skills": ["Content Strategy", "SEO", "Social Media", "Analytics", "Project Management"]
+        },
+        {
+            "title": "Cybersecurity Analyst",
+            "description": "We are looking for a cybersecurity analyst to protect our systems and data from potential threats. You will conduct risk assessments and monitor security.",
+            "skills": ["Threat Analysis", "Incident Response", "Network Security", "Vulnerability Assessment", "Compliance"]
+        },
+        {
+            "title": "E-commerce Manager",
+            "description": "Join our team as an e-commerce manager to drive online sales and optimize the customer shopping experience.",
+            "skills": ["E-commerce Platforms", "Digital Marketing", "SEO", "Customer Engagement", "Data Analysis"]
+        },
+        {
+            "title": "Research Scientist",
+            "description": "We are seeking a research scientist to conduct experiments and analyze data in our lab. You will work on innovative projects in your field.",
+            "skills": ["Data Analysis", "Research Methodologies", "Lab Techniques", "Statistical Software", "Report Writing"]
+        },
+        {
+            "title": "Social Media Manager",
+            "description": "Looking for a social media manager to create and execute our social media strategy. You will engage with our audience and grow our online presence.",
+            "skills": ["Content Creation", "Social Media Platforms", "Analytics", "Community Engagement", "Branding"]
+        },
+        {
+            "title": "Business Development Representative",
+            "description": "We are looking for a business development representative to identify new business opportunities and maintain client relationships.",
+            "skills": ["Lead Generation", "Communication", "Negotiation", "CRM Software", "Market Research"]
+        },
+        {
+            "title": "IT Support Specialist",
+            "description": "Join our IT support team to assist users with technical issues and ensure smooth IT operations.",
+            "skills": ["Troubleshooting", "Customer Service", "Hardware/Software Support", "Networking", "Help Desk Software"]
+        },
+        {
+            "title": "Sales Operations Analyst",
+            "description": "We need a sales operations analyst to streamline our sales processes and improve efficiency across the sales team.",
+            "skills": ["Data Analysis", "Sales Reporting", "CRM Systems", "Process Improvement", "Communication"]
+        }
+    ],
+    [
+        {
+            "title": "Legal Advisor",
+            "description": "We are seeking a legal advisor to provide expert legal guidance and support on various corporate matters.",
+            "skills": ["Corporate Law", "Contract Negotiation", "Compliance", "Legal Research", "Communication"]
+        },
+        {
+            "title": "Operations Manager",
+            "description": "Join our operations team as an operations manager to oversee daily activities and ensure smooth business operations.",
+            "skills": ["Process Improvement", "Team Leadership", "Project Management", "Budgeting", "Analytical Skills"]
+        },
+        {
+            "title": "Public Relations Specialist",
+            "description": "We need a public relations specialist to manage our public image and handle media communications.",
+            "skills": ["Media Relations", "Crisis Management", "Writing Skills", "Strategic Communication", "Social Media"]
+        },
+        {
+            "title": "Creative Director",
+            "description": "Looking for a creative director to lead our creative team and develop innovative marketing strategies and campaigns.",
+            "skills": ["Leadership", "Creative Thinking", "Brand Strategy", "Graphic Design", "Project Management"]
+        },
+        {
+            "title": "Data Scientist",
+            "description": "We are looking for a data scientist to analyze and interpret complex data sets to help drive strategic decisions.",
+            "skills": ["Machine Learning", "Statistical Analysis", "Python", "R", "Data Visualization"]
+        },
+        {
+            "title": "Content Editor",
+            "description": "Join our editorial team as a content editor. You will review, edit, and refine content to ensure clarity and consistency.",
+            "skills": ["Editing", "Proofreading", "Attention to Detail", "SEO", "Content Management Systems"]
+        },
+        {
+            "title": "Hardware Engineer",
+            "description": "We are seeking a hardware engineer to design and develop hardware components for our products.",
+            "skills": ["Circuit Design", "Embedded Systems", "Prototyping", "Testing", "Problem-Solving"]
+        },
+        {
+            "title": "IT Project Manager",
+            "description": "Looking for an IT project manager to lead technology projects from inception to completion, ensuring they meet business goals.",
+            "skills": ["Project Management", "Agile Methodologies", "Risk Management", "Team Leadership", "Budgeting"]
+        },
+        {
+            "title": "UX Researcher",
+            "description": "We need a UX researcher to conduct user research and testing to inform design decisions and improve user experiences.",
+            "skills": ["User Interviews", "Usability Testing", "Data Analysis", "Wireframing", "Persona Development"]
+        },
+        {
+            "title": "Brand Manager",
+            "description": "Join our marketing team as a brand manager. You will oversee brand strategy and ensure consistency across all channels.",
+            "skills": ["Brand Strategy", "Market Research", "Content Creation", "Analytical Skills", "Communication"]
+        }
+    ],
+    [
+        {
+            "title": "Video Production Specialist",
+            "description": "We are seeking a video production specialist to create engaging video content for our marketing campaigns.",
+            "skills": ["Video Editing", "Cinematography", "Scriptwriting", "Adobe Premiere Pro", "Creativity"]
+        },
+        {
+            "title": "Product Marketing Manager",
+            "description": "Join our team as a product marketing manager to develop and execute marketing strategies for our products.",
+            "skills": ["Market Analysis", "Product Positioning", "Content Strategy", "Cross-Functional Collaboration", "Analytics"]
+        },
+        {
+            "title": "Inventory Manager",
+            "description": "We need an inventory manager to oversee stock levels and ensure the efficient management of our inventory.",
+            "skills": ["Inventory Management", "Data Analysis", "Supply Chain Management", "Attention to Detail", "ERP Systems"]
+        },
+        {
+            "title": "Graphic Production Artist",
+            "description": "Looking for a graphic production artist to assist in preparing design files for print and digital media.",
+            "skills": ["Adobe Creative Suite", "File Preparation", "Attention to Detail", "Typography", "Color Theory"]
+        },
+        {
+            "title": "Research Analyst",
+            "description": "We are looking for a research analyst to gather and analyze data to provide insights for strategic decisions.",
+            "skills": ["Data Analysis", "Market Research", "Quantitative Research", "Statistical Software", "Report Writing"]
+        },
+        {
+            "title": "Event Coordinator",
+            "description": "Join our team as an event coordinator to plan and execute successful events and conferences.",
+            "skills": ["Event Planning", "Budget Management", "Vendor Coordination", "Communication", "Problem-Solving"]
+        },
+        {
+            "title": "Email Marketing Specialist",
+            "description": "We need an email marketing specialist to develop and manage email campaigns that engage our audience.",
+            "skills": ["Email Marketing", "Campaign Management", "A/B Testing", "Analytics", "Copywriting"]
+        },
+        {
+            "title": "Training and Development Manager",
+            "description": "Seeking a training and development manager to design and implement employee training programs.",
+            "skills": ["Training Design", "Program Management", "Coaching", "Communication", "Assessment"
+            ]
+        },
+        {
+            "title": "Compliance Officer",
+            "description": "We are looking for a compliance officer to ensure that our company adheres to legal standards and internal policies.",
+            "skills": ["Regulatory Knowledge", "Risk Management", "Auditing", "Attention to Detail", "Communication"]
+        },
+        {
+            "title": "Digital Marketing Analyst",
+            "description": "Join our marketing team as a digital marketing analyst to analyze online marketing performance and optimize strategies.",
+            "skills": ["Google Analytics", "SEO", "PPC Advertising", "Data Analysis", "Reporting"]
+        }
+    ],
+    [
+        {
+            "title": "Research and Development Engineer",
+            "description": "We are seeking an R&D engineer to innovate and develop new products and technologies in our lab.",
+            "skills": ["Product Development", "Prototyping", "Technical Writing", "Project Management", "Collaboration"]
+        },
+        {
+            "title": "System Analyst",
+            "description": "Join our team as a system analyst to evaluate and improve our IT systems to meet business needs.",
+            "skills": ["System Analysis", "Business Requirements", "Process Improvement", "Technical Documentation", "Communication"]
+        },
+        {
+            "title": "Artificial Intelligence Engineer",
+            "description": "We are looking for an AI engineer to develop intelligent systems and algorithms using machine learning techniques.",
+            "skills": ["Machine Learning", "Deep Learning", "Python", "TensorFlow", "Data Analysis"]
+        },
+        {
+            "title": "Production Supervisor",
+            "description": "We need a production supervisor to oversee manufacturing operations and ensure product quality.",
+            "skills": ["Manufacturing Processes", "Team Leadership", "Quality Control", "Safety Standards", "Problem-Solving"]
+        },
+        {
+            "title": "Network Security Engineer",
+            "description": "Looking for a network security engineer to protect our network infrastructure from security threats.",
+            "skills": ["Firewall Management", "Intrusion Detection", "Network Protocols", "Risk Assessment", "Analytical Skills"]
+        },
+        {
+            "title": "Financial Controller",
+            "description": "Join our finance team as a financial controller to manage financial reporting and compliance.",
+            "skills": ["Financial Reporting", "Budgeting", "Forecasting", "Accounting Principles", "Regulatory Knowledge"]
+        },
+        {
+            "title": "Sales Manager",
+            "description": "We are seeking a sales manager to lead our sales team and drive revenue growth through effective strategies.",
+            "skills": ["Sales Strategy", "Team Leadership", "CRM Software", "Market Analysis", "Negotiation"]
+        },
+        {
+            "title": "Content Strategist",
+            "description": "We need a content strategist to develop and implement content plans that align with business objectives.",
+            "skills": ["Content Planning", "SEO", "Analytics", "Brand Strategy", "Research"]
+        },
+        {
+            "title": "User Experience Designer",
+            "description": "Looking for a user experience designer to create user-centered designs that enhance product usability.",
+            "skills": ["User Research", "Prototyping", "Wireframing", "Design Tools", "Collaboration"]
+        },
+        {
+            "title": "Operations Analyst",
+            "description": "Join our operations team as an analyst to assess and improve operational efficiency.",
+            "skills": ["Data Analysis", "Process Mapping", "Reporting", "Problem-Solving", "Communication"]
+        }
+    ],
+    [
+        {
+            "title": "Talent Acquisition Specialist",
+            "description": "We are seeking a talent acquisition specialist to manage the recruitment process and attract top talent.",
+            "skills": ["Recruitment", "Interviewing", "Employer Branding", "Networking", "Communication"]
+        },
+        {
+            "title": "Health and Safety Officer",
+            "description": "Join our team as a health and safety officer to ensure compliance with health and safety regulations in the workplace.",
+            "skills": ["Risk Assessment", "Safety Training", "Regulatory Compliance", "Incident Investigation", "Attention to Detail"]
+        },
+        {
+            "title": "Field Service Technician",
+            "description": "We need a field service technician to install, repair, and maintain our equipment at customer sites.",
+            "skills": ["Technical Support", "Troubleshooting", "Customer Service", "Mechanical Skills", "Time Management"]
+        },
+        {
+            "title": "Web Developer",
+            "description": "Looking for a web developer to design and maintain our websites, ensuring a great user experience.",
+            "skills": ["HTML", "CSS", "JavaScript", "Responsive Design", "WordPress"]
+        },
+        {
+            "title": "Brand Strategist",
+            "description": "We are seeking a brand strategist to develop and implement brand strategies that enhance market presence.",
+            "skills": ["Market Research", "Brand Positioning", "Creative Thinking", "Communication", "Analytics"]
+        },
+        {
+            "title": "Software Quality Engineer",
+            "description": "Join our team as a software quality engineer to ensure the quality of our software products through testing.",
+            "skills": ["Test Automation", "Scripting", "Performance Testing", "Bug Tracking", "Attention to Detail"]
+        },
+        {
+            "title": "Corporate Trainer",
+            "description": "We are looking for a corporate trainer to develop and deliver training programs for employees.",
+            "skills": ["Training Development", "Public Speaking", "Communication", "Assessment", "Program Management"]
+        },
+        {
+            "title": "Systems Engineer",
+            "description": "We need a systems engineer to design and implement complex systems and ensure they meet requirements.",
+            "skills": ["System Design", "Integration", "Troubleshooting", "Documentation", "Collaboration"]
+        },
+        {
+            "title": "Digital Content Producer",
+            "description": "Join our team as a digital content producer to create engaging content for various online platforms.",
+            "skills": ["Content Creation", "Video Editing", "Social Media", "SEO", "Creative Writing"]
+        },
+        {
+            "title": "Strategic Partnerships Manager",
+            "description": "We are seeking a strategic partnerships manager to build and maintain relationships with key partners.",
+            "skills": ["Relationship Management", "Negotiation", "Business Development", "Communication", "Strategic Planning"]
+        }
+    ],
+    [
+        {
+            "title": "Customer Experience Manager",
+            "description": "We are looking for a customer experience manager to enhance customer satisfaction and loyalty through exceptional service.",
+            "skills": ["Customer Service", "Data Analysis", "Feedback Management", "Problem-Solving", "Communication"]
+        },
+        {
+            "title": "Clinical Research Coordinator",
+            "description": "Join our clinical research team as a coordinator to manage clinical trials and ensure compliance with regulations.",
+            "skills": ["Clinical Trials", "Regulatory Compliance", "Data Management", "Project Coordination", "Communication"]
+        },
+        {
+            "title": "IT Compliance Analyst",
+            "description": "We need an IT compliance analyst to ensure our IT systems adhere to industry regulations and standards.",
+            "skills": ["Regulatory Knowledge", "Risk Assessment", "Auditing", "Documentation", "Attention to Detail"]
+        },
+        {
+            "title": "Blockchain Developer",
+            "description": "We are seeking a blockchain developer to design and implement blockchain-based solutions for our projects.",
+            "skills": ["Blockchain Technology", "Smart Contracts", "Cryptography", "Solidity", "Problem-Solving"]
+        },
+        {
+            "title": "Social Media Analyst",
+            "description": "Looking for a social media analyst to monitor and analyze social media performance and engagement.",
+            "skills": ["Social Media Platforms", "Data Analysis", "Reporting", "Content Strategy", "Communication"]
+        },
+        {
+            "title": "Financial Advisor",
+            "description": "We are seeking a financial advisor to provide personalized financial planning and investment advice to clients.",
+            "skills": ["Financial Planning", "Investment Strategies", "Client Relations", "Analytical Skills", "Regulatory Knowledge"]
+        },
+        {
+            "title": "Technical Support Engineer",
+            "description": "Join our support team as a technical support engineer to assist customers with technical issues and troubleshooting.",
+            "skills": ["Technical Support", "Problem-Solving", "Networking", "Customer Service", "Documentation"]
+        },
+        {
+            "title": "E-learning Developer",
+            "description": "We need an e-learning developer to create interactive and engaging online training programs.",
+            "skills": ["Instructional Design", "E-learning Tools", "Content Creation", "Project Management", "Technology Integration"]
+        },
+        {
+            "title": "Database Developer",
+            "description": "We are looking for a database developer to design and maintain database systems for optimal performance.",
+            "skills": ["SQL", "Database Design", "Data Modeling", "Performance Tuning", "Troubleshooting"]
+        },
+        {
+            "title": "Advertising Account Manager",
+            "description": "Join our advertising team as an account manager to manage client relationships and drive successful campaigns.",
+            "skills": ["Client Management", "Campaign Strategy", "Communication", "Negotiation", "Project Management"]
+        }
+    ],
+    [
+        {
+            "title": "Graphic Design Intern",
+            "description": "We are seeking a graphic design intern to assist with design projects and gain hands-on experience in a creative environment.",
+            "skills": ["Adobe Creative Suite", "Creativity", "Attention to Detail", "Team Collaboration", "Time Management"]
+        },
+        {
+            "title": "Supply Chain Analyst",
+            "description": "Join our supply chain team as an analyst to optimize processes and improve efficiency across the supply chain.",
+            "skills": ["Data Analysis", "Supply Chain Management", "Inventory Management", "Problem-Solving", "Communication"]
+        },
+        {
+            "title": "Mobile Game Developer",
+            "description": "We are looking for a mobile game developer to create engaging and interactive mobile games.",
+            "skills": ["Unity", "C#", "Game Design", "Mobile Development", "Problem-Solving"]
+        },
+        {
+            "title": "Facilities Manager",
+            "description": "We need a facilities manager to oversee the maintenance and operation of our facilities.",
+            "skills": ["Facility Management", "Vendor Management", "Budgeting", "Safety Compliance", "Problem-Solving"]
+        },
+        {
+            "title": "Public Health Analyst",
+            "description": "Join our public health team as an analyst to evaluate health programs and policies.",
+            "skills": ["Data Analysis", "Public Health Knowledge", "Statistical Software", "Research Skills", "Communication"]
+        },
+        {
+            "title": "User Interface Developer",
+            "description": "We are seeking a user interface developer to create user-friendly and visually appealing interfaces for our applications.",
+            "skills": ["HTML", "CSS", "JavaScript", "UI Frameworks", "Responsive Design"]
+        },
+        {
+            "title": "Technical Project Manager",
+            "description": "Looking for a technical project manager to oversee technical projects and ensure timely delivery.",
+            "skills": ["Project Management", "Technical Knowledge", "Agile Methodologies", "Team Leadership", "Communication"]
+        },
+        {
+            "title": "Corporate Communications Specialist",
+            "description": "We need a corporate communications specialist to manage internal and external communications.",
+            "skills": ["Communication", "Writing Skills", "Media Relations", "Crisis Management", "Public Relations"]
+        },
+        {
+            "title": "Frontend UI/UX Developer",
+            "description": "Join our team as a frontend UI/UX developer to design and implement engaging user interfaces.",
+            "skills": ["HTML", "CSS", "JavaScript", "User Research", "Prototyping"]
+        },
+        {
+            "title": "Game Designer",
+            "description": "We are looking for a game designer to create immersive game experiences and develop game mechanics.",
+            "skills": ["Game Design", "Storytelling", "Unity", "Creative Thinking", "Collaboration"]
+        }
+    ],
+    [
+        {
+            "title": "SEO Content Writer",
+            "description": "We are seeking an SEO content writer to create optimized content that drives organic traffic to our website.",
+            "skills": ["SEO", "Content Writing", "Keyword Research", "Research Skills", "Editing"]
+        },
+        {
+            "title": "Marketing Data Analyst",
+            "description": "Join our marketing team as a data analyst to analyze campaign performance and provide actionable insights.",
+            "skills": ["Data Analysis", "Google Analytics", "Excel", "Reporting", "Communication"]
+        },
+        {
+            "title": "Cybersecurity Consultant",
+            "description": "We are looking for a cybersecurity consultant to assess and improve our security posture.",
+            "skills": ["Risk Assessment", "Network Security", "Compliance", "Incident Response", "Communication"]
+        },
+        {
+            "title": "User Research Analyst",
+            "description": "Join our UX team as a user research analyst to conduct research and gather user feedback.",
+            "skills": ["User Interviews", "Usability Testing", "Data Analysis", "Reporting", "Communication"]
+        },
+        {
+            "title": "Real Estate Analyst",
+            "description": "We need a real estate analyst to evaluate property investments and market trends.",
+            "skills": ["Market Research", "Financial Analysis", "Data Analysis", "Report Writing", "Communication"]
+        },
+        {
+            "title": "Procurement Specialist",
+            "description": "We are seeking a procurement specialist to manage sourcing and purchasing processes for the company.",
+            "skills": ["Negotiation", "Supplier Management", "Contract Management", "Data Analysis", "Communication"]
+        },
+        {
+            "title": "Product Designer",
+            "description": "Looking for a product designer to create innovative product solutions based on user needs.",
+            "skills": ["User-Centered Design", "Prototyping", "Wireframing", "Sketch", "Collaboration"]
+        },
+        {
+            "title": "Finance Manager",
+            "description": "We are looking for a finance manager to oversee financial planning, analysis, and reporting.",
+            "skills": ["Financial Analysis", "Budgeting", "Forecasting", "Team Leadership", "Communication"]
+        },
+        {
+            "title": "Sales Enablement Specialist",
+            "description": "Join our sales team as a sales enablement specialist to provide resources and training for sales success.",
+            "skills": ["Sales Training", "Content Development", "Communication", "Analytics", "CRM Software"]
+        },
+        {
+            "title": "Product Support Specialist",
+            "description": "We need a product support specialist to assist customers with product-related inquiries and issues.",
+            "skills": ["Customer Service", "Technical Support", "Problem-Solving", "Communication", "Documentation"]
+        }
+    ],
+    [
+        {
+            "title": "Data Engineer",
+            "description": "We are seeking a data engineer to design and implement data pipelines and manage data architecture.",
+            "skills": ["SQL", "ETL", "Data Warehousing", "Python", "Big Data Technologies"]
+        },
+        {
+            "title": "Compliance Analyst",
+            "description": "Join our compliance team as an analyst to ensure adherence to regulatory standards and company policies.",
+            "skills": ["Regulatory Knowledge", "Risk Assessment", "Auditing", "Data Analysis", "Attention to Detail"]
+        },
+        {
+            "title": "Public Relations Manager",
+            "description": "We need a public relations manager to develop and execute PR strategies that enhance our brand image.",
+            "skills": ["Media Relations", "Crisis Management", "Communication", "Content Creation", "Strategic Planning"]
+        },
+        {
+            "title": "Artificial Intelligence Researcher",
+            "description": "We are looking for an AI researcher to explore innovative AI solutions and publish findings.",
+            "skills": ["Machine Learning", "Research Methodologies", "Python", "Data Analysis", "Problem-Solving"]
+        },
+        {
+            "title": "Technical Writer",
+            "description": "Join our team as a technical writer to create clear and concise documentation for our products.",
+            "skills": ["Technical Writing", "Documentation", "Attention to Detail", "Research Skills", "Communication"]
+        },
+        {
+            "title": "E-commerce Analyst",
+            "description": "We are seeking an e-commerce analyst to analyze online sales data and optimize our e-commerce strategies.",
+            "skills": ["Data Analysis", "E-commerce Platforms", "SEO", "Google Analytics", "Reporting"]
+        },
+        {
+            "title": "Instructional Designer",
+            "description": "Looking for an instructional designer to create engaging learning materials and programs.",
+            "skills": ["Instructional Design", "eLearning Development", "Project Management", "Research Skills", "Communication"]
+        },
+        {
+            "title": "Bilingual Customer Support Representative",
+            "description": "We need a bilingual customer support representative to assist our diverse customer base.",
+            "skills": ["Customer Service", "Bilingual Communication", "Problem-Solving", "CRM Software", "Patience"]
+        },
+        {
+            "title": "Video Game Tester",
+            "description": "Join our gaming team as a tester to identify bugs and ensure the quality of our video games.",
+            "skills": ["Attention to Detail", "Gaming Knowledge", "Testing Procedures", "Communication", "Problem-Solving"]
+        },
+        {
+            "title": "HR Business Partner",
+            "description": "We are looking for an HR business partner to align HR strategies with business goals.",
+            "skills": ["HR Strategy", "Employee Relations", "Talent Management", "Communication", "Analytical Skills"]
+        }
+    ],
+    [
+        {
+            "title": "Machine Learning Engineer",
+            "description": "We are seeking a machine learning engineer to design and implement machine learning models for various applications.",
+            "skills": ["Machine Learning", "Python", "Data Science", "TensorFlow", "Algorithm Development"]
+        },
+        {
+            "title": "Cloud Security Specialist",
+            "description": "Join our IT security team as a cloud security specialist to safeguard our cloud infrastructure and data.",
+            "skills": ["Cloud Security", "Risk Assessment", "Compliance", "Network Security", "Security Frameworks"]
+        },
+        {
+            "title": "Event Marketing Manager",
+            "description": "We need an event marketing manager to plan and execute marketing strategies for our events.",
+            "skills": ["Event Planning", "Digital Marketing", "Budget Management", "Communication", "Project Management"]
+        },
+        {
+            "title": "Retail Store Manager",
+            "description": "We are looking for a retail store manager to oversee store operations and enhance customer satisfaction.",
+            "skills": ["Retail Management", "Customer Service", "Sales Strategy", "Team Leadership", "Inventory Management"]
+        },
+        {
+            "title": "Software Development Intern",
+            "description": "Join our software development team as an intern to gain hands-on experience in coding and software design.",
+            "skills": ["Programming", "Problem-Solving", "Team Collaboration", "Version Control", "Agile Methodologies"]
+        },
+        {
+            "title": "Graphic Designer",
+            "description": "We are seeking a graphic designer to create visually appealing designs for print and digital media.",
+            "skills": ["Adobe Creative Suite", "Typography", "Creativity", "Attention to Detail", "Collaboration"]
+        },
+        {
+            "title": "Content Marketing Coordinator",
+            "description": "Join our marketing team as a content marketing coordinator to support content creation and distribution.",
+            "skills": ["Content Creation", "SEO", "Social Media", "Analytics", "Communication"]
+        },
+        {
+            "title": "Health Informatics Specialist",
+            "description": "We need a health informatics specialist to manage and analyze health data to improve patient care.",
+            "skills": ["Health Data Management", "Data Analysis", "Healthcare Knowledge", "Information Technology", "Communication"]
+        },
+        {
+            "title": "Financial Analyst",
+            "description": "We are looking for a financial analyst to conduct financial modeling and analysis to support decision-making.",
+            "skills": ["Financial Modeling", "Data Analysis", "Excel", "Reporting", "Attention to Detail"]
+        },
+        {
+            "title": "IT Operations Manager",
+            "description": "Join our IT department as an operations manager to oversee IT operations and ensure system reliability.",
+            "skills": ["IT Management", "Team Leadership", "Process Improvement", "Problem-Solving", "Communication"]
+        }
+    ],
+    [
+        {
+            "title": "Business Intelligence Analyst",
+            "description": "We are seeking a business intelligence analyst to gather and analyze data to inform business strategies.",
+            "skills": ["Data Visualization", "SQL", "Data Analysis", "Business Acumen", "Reporting"]
+        },
+        {
+            "title": "Environmental Scientist",
+            "description": "Join our team as an environmental scientist to conduct research and provide solutions for environmental issues.",
+            "skills": ["Environmental Research", "Data Analysis", "Regulatory Knowledge", "Fieldwork", "Report Writing"]
+        },
+        {
+            "title": "Fashion Designer",
+            "description": "We are looking for a fashion designer to create innovative clothing designs and collections.",
+            "skills": ["Fashion Design", "Textile Knowledge", "Creative Thinking", "CAD Software", "Trend Analysis"]
+        },
+        {
+            "title": "Mobile App Developer",
+            "description": "We need a mobile app developer to design and build user-friendly mobile applications.",
+            "skills": ["iOS Development", "Android Development", "Java", "Swift", "UI/UX Design"]
+        },
+        {
+            "title": "Accountant",
+            "description": "We are seeking an accountant to manage financial records, prepare reports, and ensure compliance.",
+            "skills": ["Accounting Principles", "Financial Reporting", "Tax Preparation", "Attention to Detail", "Analytical Skills"]
+        },
+        {
+            "title": "Sales Operations Analyst",
+            "description": "Join our sales team as an operations analyst to improve sales processes and analyze performance metrics.",
+            "skills": ["Sales Analysis", "Data Management", "CRM Software", "Reporting", "Communication"]
+        },
+        {
+            "title": "Social Media Manager",
+            "description": "We are looking for a social media manager to develop and execute our social media strategy.",
+            "skills": ["Social Media Marketing", "Content Creation", "Analytics", "Community Engagement", "Communication"]
+        },
+        {
+            "title": "Quality Assurance Tester",
+            "description": "Join our software team as a QA tester to ensure the quality and functionality of our applications.",
+            "skills": ["Testing Procedures", "Attention to Detail", "Bug Tracking", "Automation Tools", "Communication"]
+        },
+        {
+            "title": "HR Coordinator",
+            "description": "We need an HR coordinator to assist with recruitment, onboarding, and employee relations.",
+            "skills": ["Recruitment", "HR Policies", "Communication", "Organizational Skills", "Attention to Detail"]
+        },
+        {
+            "title": "Network Engineer",
+            "description": "We are seeking a network engineer to design, implement, and maintain our network infrastructure.",
+            "skills": ["Network Design", "Troubleshooting", "Routing Protocols", "Security", "Communication"]
+        }
+    ]    
+]

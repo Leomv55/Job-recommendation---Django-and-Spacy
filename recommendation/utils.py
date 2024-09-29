@@ -50,7 +50,7 @@ def convert_job_posts_to_df(job_posts):
 def add_embedding_for_job_posts_df(df):
     nlp = get_model(settings.RECOMMENDATION_MODEL)
 
-    df['skills_str'] = df['skills'].apply(lambda x: ' '.join(x))
+    df['skills_str'] = df['skills'].apply(lambda x: ','.join(x))
     df['text'] = df['title'] + ' ' + df['description'] + ' ' + df['skills_str']
     df['embedding'] = df['text'].apply(lambda x: nlp.get_vector(x))
 

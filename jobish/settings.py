@@ -125,3 +125,4 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 VECTOR_CACHE_PATH = os.path.join(BASE_DIR, "vector_cache")
+RECOMMENDATION_MODEL = os.environ.get("RECOMMENDATION_MODEL", "sbert")

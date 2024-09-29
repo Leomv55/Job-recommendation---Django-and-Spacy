@@ -1,5 +1,6 @@
 from django.http import JsonResponse
 from django.views import View
+from django.conf import settings
 from django.core.paginator import Paginator, PageNotAnInteger, EmptyPage
 
 from .models import JobPost
@@ -45,7 +46,7 @@ class JobPostRecommendation(View):
         if not query:
             return JsonResponse({"error": "No query given"})
 
-        recommendation_engine = RecommendationEngine("spacy")
+        recommendation_engine = RecommendationEngine(settings.RECOMMENDATION_MODEL)
         job_post_details = recommendation_engine.similarity_search(
             query,
             filter_func=lambda df: df.drop(columns=['embedding', 'text', 'skills_str'], inplace=True)

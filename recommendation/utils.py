@@ -2,6 +2,10 @@ import pandas as pd
 
 from django.conf import settings
 
+from .nlp_models import (
+    SpacyModel,
+    SBertModel,
+)
 
 def update_vector_cache(df):
     try:
@@ -28,9 +32,10 @@ def get_vector_cache():
 
 def get_model(model):
     if model == "spacy":
-        from .core import SpacyModel
         return SpacyModel.get_instance()
-    
+    elif model == "sbert":
+        return SBertModel.get_instance()
+
     raise ValueError(f"Unknon model: {model}")
 
 
@@ -43,8 +48,10 @@ def convert_job_posts_to_df(job_posts):
 
 
 def add_embedding_for_job_posts_df(df):
-    nlp = get_model("spacy")
+    nlp = get_model(settings.RECOMMENDATION_MODEL)
+
     df['skills_str'] = df['skills'].apply(lambda x: ' '.join(x))
     df['text'] = df['title'] + ' ' + df['description'] + ' ' + df['skills_str']
-    df['embedding'] = df['text'].apply(lambda x: nlp(x).vector)
+    df['embedding'] = df['text'].apply(lambda x: nlp.get_vector(x))
+
     return df

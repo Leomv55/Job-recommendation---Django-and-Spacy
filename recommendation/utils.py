@@ -16,9 +16,12 @@ def update_vector_cache(df):
     if exising_df.empty:
         exising_df = df
     else:
-        df.set_index("id")
-        exising_df.set_index("id")
-        exising_df.update(df, overwrite=True)
+        df.set_index("id", inplace=True)
+        exising_df.set_index("id", inplace=True)
+        exising_df.update(df)
+
+        exising_df = exising_df.combine_first(df)
+        exising_df.reset_index(inplace=True)
 
     exising_df.to_pickle(settings.VECTOR_CACHE_PATH)
 

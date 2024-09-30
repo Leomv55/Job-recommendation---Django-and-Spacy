@@ -288,8 +288,13 @@ Built using django
 ```
 
 # Screenshots
+- `Jobs - Endpoint`
+<img src="./screenshots/jobs.png">
 
-# settings.py
+- `Recommendation endpoint`
+<img src="./screenshots//recommendation.png">
+
+# Settings
 
 - Set the path vector cache - this will be used for searching and ranking
 

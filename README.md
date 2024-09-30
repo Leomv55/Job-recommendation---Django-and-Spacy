@@ -21,8 +21,8 @@ Built using django
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Leomv55/Job-recommendation---Django-and-Spacy.git
-   cd Job-recommendation---Django-and-Spacy
+   git clone https://github.com/Leomv55/Job-recommendation-Spacy-Django.git
+   cd ob-recommendation-Spacy-Django
    ```
 
 2. Install the required packages:

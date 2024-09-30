@@ -43,13 +43,16 @@ class JobPostRecommendation(View):
 
     def get(self, request, *args, **kwargs):
         query = request.GET.get("query", "")
+        max_results = int(request.GET.get("max_results", 10))
+
         if not query:
             return JsonResponse({"error": "No query given"})
 
         recommendation_engine = RecommendationEngine(settings.RECOMMENDATION_MODEL)
         job_post_details = recommendation_engine.similarity_search(
             query,
-            filter_func=lambda df: df.drop(columns=['embedding', 'text', 'skills_str'], inplace=True)
+            filter_func=lambda df: df.drop(columns=['embedding', 'text', 'skills_str'], inplace=True),
+            max_result=max_results
 
         )
         return JsonResponse(job_post_details, safe=False)
